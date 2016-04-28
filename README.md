@@ -3,7 +3,7 @@
 #### By Aundra Miller
 
 ##Description
-This was a simple PHP project to become used to writing PHP code. Users can enter in the three sides of a triangle to learn the what kind of triangle it is.
+This was a simple PHP project to become used to writing PHP code. Users can enter in the three sides of a triangle to learn what kind of triangle it is.
 
 **This application may not be complete. Its sole purpose was to be a class exercise while attending Epicodus.**
 
